@@ -4,14 +4,14 @@ Welcome! This repository contains my self-introduction video, where I briefly ta
 
 ---
 
-## 📺 Watch My Introduction Video
+##  Watch My Introduction Video
 
 👉 **Google Drive Link:**  
 🔗 *https://drive.google.com/file/d/1SiFR_9Im5Y7vjhOyVZs7GAgfx8srarDz/view?usp=drivesdk*
 
 ---
 
-## 👋 About Me
+##  About Me
 
 Hi, I’m **Vidhi Soni**, a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**.
 
@@ -21,7 +21,7 @@ Hi, I’m **Vidhi Soni**, a Computer Science undergraduate specializing in **Art
 
 ---
 
-## 🚀 Projects Highlight
+##  Projects Highlight
 
 - **Vigilant AI** – Smart Test Monitoring System with Facial Recognition  
 - **Fake ID Card Detection** – OpenCV & CNN-based system  
@@ -30,8 +30,8 @@ Hi, I’m **Vidhi Soni**, a Computer Science undergraduate specializing in **Art
 
 ---
 
-## 📌 Purpose of This Repository
+##  Purpose of This Repository
 
 This repository is created to share my **introduction video** along with a brief overview of my technical profile.
 
-Thank you for visiting! 😊
+Thank you for visiting! 
